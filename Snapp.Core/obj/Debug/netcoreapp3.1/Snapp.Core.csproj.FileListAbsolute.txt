@@ -1,0 +1,15 @@
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Core\bin\Debug\netcoreapp3.1\Snapp.Core.deps.json
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Core\bin\Debug\netcoreapp3.1\Snapp.Core.runtimeconfig.json
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Core\bin\Debug\netcoreapp3.1\Snapp.Core.runtimeconfig.dev.json
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Core\bin\Debug\netcoreapp3.1\Snapp.Core.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Core\bin\Debug\netcoreapp3.1\Snapp.Core.pdb
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Core\obj\Debug\netcoreapp3.1\Snapp.Core.AssemblyInfoInputs.cache
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Core\obj\Debug\netcoreapp3.1\Snapp.Core.AssemblyInfo.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Core\obj\Debug\netcoreapp3.1\Snapp.Core.csproj.CoreCompileInputs.cache
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Core\obj\Debug\netcoreapp3.1\Snapp.Core.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Core\obj\Debug\netcoreapp3.1\Snapp.Core.pdb
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Core\obj\Debug\netcoreapp3.1\Snapp.Core.genruntimeconfig.cache
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Core\obj\Debug\netcoreapp3.1\Snapp.Core.csprojAssemblyReference.cache
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Core\bin\Debug\netcoreapp3.1\Snapp.DataAccessLayer.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Core\bin\Debug\netcoreapp3.1\Snapp.DataAccessLayer.pdb
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Core\obj\Debug\netcoreapp3.1\Snapp.Core.csproj.CopyComplete

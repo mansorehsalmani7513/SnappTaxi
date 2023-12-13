@@ -1,0 +1,14 @@
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\bin\Debug\net5.0\Snapp.DataAccessLayer.deps.json
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\bin\Debug\net5.0\Snapp.DataAccessLayer.runtimeconfig.json
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\bin\Debug\net5.0\Snapp.DataAccessLayer.runtimeconfig.dev.json
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\bin\Debug\net5.0\Snapp.DataAccessLayer.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\bin\Debug\net5.0\ref\Snapp.DataAccessLayer.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\bin\Debug\net5.0\Snapp.DataAccessLayer.pdb
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\obj\Debug\net5.0\Snapp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\obj\Debug\net5.0\Snapp.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\obj\Debug\net5.0\Snapp.DataAccessLayer.AssemblyInfo.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\obj\Debug\net5.0\Snapp.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\obj\Debug\net5.0\Snapp.DataAccessLayer.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\obj\Debug\net5.0\ref\Snapp.DataAccessLayer.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\obj\Debug\net5.0\Snapp.DataAccessLayer.pdb
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\obj\Debug\net5.0\Snapp.DataAccessLayer.genruntimeconfig.cache
