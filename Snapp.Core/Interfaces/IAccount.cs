@@ -24,5 +24,7 @@ namespace Snapp.Core.Interfaces
         void UpdateUserPassword(Guid Id, string code);
 
         Task<User> ActiveUser(ActiveViewModel viewModel);
+
+        bool CheckUserRole(string role, string username);
     }
 }

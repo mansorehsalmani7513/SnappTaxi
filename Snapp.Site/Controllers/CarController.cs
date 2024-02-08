@@ -9,6 +9,9 @@ using Snapp.Core.Services;
 using Snapp.Core.ViewModels.Admin;
 
 using Snapp.DataAccessLayer.Entites;
+using System.IO;
+using Microsoft.AspNetCore.Http;
+using OfficeOpenXml;
 
 namespace Snapp.Site.Controllers
 {
@@ -84,6 +87,42 @@ namespace Snapp.Site.Controllers
             //}
 
             return RedirectToAction(nameof(Index));
+        }
+        public IActionResult ImportFile()
+        {
+            return View();
+        }
+        public async Task<IActionResult> Import(IFormFile file)
+        {
+            if (file != null)
+            {
+                using (var stream = new MemoryStream())
+                {
+                    await file.CopyToAsync(stream);
+
+                    using (var package = new ExcelPackage(stream))
+                    {
+                        ExcelWorksheet worksheet = package.Workbook.Worksheets[0];
+                        var rowCount = worksheet.Dimension.Rows;
+
+                        for (int i = 2; i <= rowCount; i++)
+                        {
+                            CarViewModel viewModel = new CarViewModel()
+                            {
+                                Name = worksheet.Cells[i, 1].Value.ToString().Trim()
+                            };
+
+                            _admin.AddCar(viewModel);
+                        }
+                    }
+                }
+
+                return RedirectToAction(nameof(Index));
+            }
+            else
+            {
+                return RedirectToAction(nameof(ImportFile));
+            }
         }
     }
 }

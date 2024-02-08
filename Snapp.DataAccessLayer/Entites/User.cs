@@ -40,5 +40,12 @@ namespace Snapp.DataAccessLayer.Entites
         public virtual UserDetail UserDetail { get; set; }
 
         public virtual Driver Driver { get; set; }
+
+        public virtual ICollection<Factor> Factors { get; set; }
+
+        public virtual ICollection<UserAddresse> UserAddresses { get; set; }
+
+        public virtual ICollection<Transact>Transacts { get; set; }
     }
 }
+ 

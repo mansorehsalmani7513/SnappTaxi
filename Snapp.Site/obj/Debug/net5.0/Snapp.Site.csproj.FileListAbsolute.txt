@@ -1,18 +1,454 @@
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Core.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.DataAccessLayer.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\appsettings.Development.json
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\appsettings.json
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Site.exe
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Site.deps.json
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Site.runtimeconfig.json
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Site.runtimeconfig.dev.json
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Site.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\ref\Snapp.Site.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Site.pdb
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Site.Views.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Site.Views.pdb
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\EPPlus.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Humanizer.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Kavenegar.Core.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Core.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.DataAccessLayer.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Core.pdb
+C:\Drive\Samples\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.DataAccessLayer.pdb
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.csprojAssemblyReference.cache
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.AssemblyInfoInputs.cache
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.AssemblyInfo.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.csproj.CoreCompileInputs.cache
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.MvcApplicationPartsAssemblyInfo.cache
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorAssemblyInfo.cache
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorAssemblyInfo.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\staticwebassets\Snapp.Site.StaticWebAssets.Manifest.cache
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\staticwebassets\Snapp.Site.StaticWebAssets.xml
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\scopedcss\bundle\Snapp.Site.styles.css
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.TagHelpers.input.cache
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.TagHelpers.output.cache
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorCoreGenerate.cache
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Account\Active.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Account\Driver.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\AboutSetting.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\PriceSetting.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\SiteSetting.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\TermsSetting.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Car\Create.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Car\Edit.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Car\ImportFile.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Car\Index.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Color\Create.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Color\Edit.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Color\Index.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Humidity\Create.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Humidity\Edit.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Humidity\Index.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\MonthType\Create.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\MonthType\Edit.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\MonthType\Index.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\PriceType\Create.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\PriceType\Edit.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\PriceType\Index.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\RateType\Create.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\RateType\Edit.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\RateType\Index.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Role\Edit.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\_accountLayout.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\_dashboardLayout.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Temperature\Create.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Temperature\Edit.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Temperature\Index.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\Create.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\DriverCar.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\DriverCertificate.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\DriverProp.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorTargetAssemblyInfo.cache
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorTargetAssemblyInfo.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.Views.pdb
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.csproj.CopyComplete
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\ref\Snapp.Site.dll
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.pdb
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.genruntimeconfig.cache
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.MvcApplicationPartsAssemblyInfo.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\_Site.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Home\Demo.cshtml.g.cs
+C:\Drive\Samples\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Panel\Dashboard.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\appsettings.Development.json
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\appsettings.json
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Snapp.Site.exe
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Snapp.Site.deps.json
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Snapp.Site.runtimeconfig.json
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Snapp.Site.runtimeconfig.dev.json
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Snapp.Site.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\ref\Snapp.Site.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Snapp.Site.pdb
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Snapp.Site.Views.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Snapp.Site.Views.pdb
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\EPPlus.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Humanizer.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Kavenegar.Core.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualBasic.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\ZarinpalSandbox.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\debian-x64\native\libuv.so
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\fedora-x64\native\libuv.so
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\opensuse-x64\native\libuv.so
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\osx\native\libuv.dylib
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\rhel-x64\native\libuv.so
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win7-arm\native\libuv.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win7-x64\native\libuv.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win7-x86\native\libuv.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Snapp.Core.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Snapp.DataAccessLayer.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Snapp.Core.pdb
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Snapp.DataAccessLayer.pdb
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.csprojAssemblyReference.cache
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.AssemblyInfoInputs.cache
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.AssemblyInfo.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.csproj.CoreCompileInputs.cache
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.MvcApplicationPartsAssemblyInfo.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.MvcApplicationPartsAssemblyInfo.cache
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorAssemblyInfo.cache
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorAssemblyInfo.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.TagHelpers.input.cache
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.TagHelpers.output.cache
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorCoreGenerate.cache
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Account\Active.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Account\Driver.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\AboutSetting.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\MonthlyFactor.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\MonthlyRegister.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\PriceSetting.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\SiteSetting.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\TermsSetting.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\WeeklyFactor.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\WeeklyRegister.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Car\Create.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Car\Edit.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Car\ImportFile.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Car\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Color\Create.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Color\Edit.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Color\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Discount\Create.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Discount\Edit.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Discount\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Home\Demo.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Humidity\Create.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Humidity\Edit.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Humidity\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\MonthType\Create.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\MonthType\Edit.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\MonthType\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Panel\Dashboard.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Panel\Payment.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Panel\ResultPayment.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Panel\UserProfile.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\PriceType\Create.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\PriceType\Edit.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\PriceType\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\RateType\Create.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\RateType\Edit.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\RateType\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Role\Edit.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\_accountLayout.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\_dashboardLayout.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\_Site.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Temperature\Create.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Temperature\Edit.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Temperature\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\Create.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\DriverCar.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\DriverCertificate.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\DriverProp.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorTargetAssemblyInfo.cache
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorTargetAssemblyInfo.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.Views.pdb
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.csproj.CopyComplete
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\ref\Snapp.Site.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.pdb
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Snapp.Site.genruntimeconfig.cache
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Panel\ConfirmRequest.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Panel\Chat.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\libman.json
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\Components\CancelTransactComponent\ViewCancelTransact.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\Components\LastTransactComponent\ViewLastTransact.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\Components\WeeklyTransactComponent\ViewWeeklyTransact.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Transacts\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\Components\TransactInProcessComponent\TView.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Base.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Data.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Map.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Report.Check.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Report.Helper.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Report.Mvc.NetCore.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Report.Web.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Report.WebDesign.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Report.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\Stimulsoft.System.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\System.CodeDom.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Drive\Projects\OnlineTour\New folder\SnappTax-14i\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\ShowPrint.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.csproj.AssemblyReference.cache
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.GeneratedMSBuildEditorConfig.editorconfig
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.AssemblyInfoInputs.cache
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.AssemblyInfo.cs
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\staticwebassets\Snapp.Site.StaticWebAssets.Manifest.cache
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\staticwebassets\Snapp.Site.StaticWebAssets.xml
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\scopedcss\bundle\Snapp.Site.styles.css
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorTargetAssemblyInfo.cache
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Humanizer.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.csproj.CoreCompileInputs.cache
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.MvcApplicationPartsAssemblyInfo.cache
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorAssemblyInfo.cache
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorAssemblyInfo.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.MvcApplicationPartsAssemblyInfo.cs
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\appsettings.Development.json
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\appsettings.json
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Site.exe
@@ -22,48 +458,38 @@ C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Site.ru
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Site.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\ref\Snapp.Site.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Site.pdb
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Site.Views.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Site.Views.pdb
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\EPPlus.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Humanizer.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Kavenegar.Core.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Runtime.Caching.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Core.pdb
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.DataAccessLayer.pdb
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.csproj.CoreCompileInputs.cache
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.MvcApplicationPartsAssemblyInfo.cache
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.csproj.CopyComplete
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\ref\Snapp.Site.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.pdb
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.genruntimeconfig.cache
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.VisualBasic.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualBasic.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -72,11 +498,31 @@ C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.Vis
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Base.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Data.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Map.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Report.Check.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Report.Helper.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Report.Mvc.NetCore.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Report.Web.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Report.WebDesign.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Stimulsoft.Report.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Stimulsoft.System.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.CodeDom.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Composition.AttributedModel.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Composition.Convention.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Composition.Hosting.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Composition.Runtime.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\ZarinpalSandbox.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -129,39 +575,110 @@ C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\ru\Microsoft.
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\debian-x64\native\libuv.so
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\fedora-x64\native\libuv.so
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\opensuse-x64\native\libuv.so
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\osx\native\libuv.dylib
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\rhel-x64\native\libuv.so
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win7-arm\native\libuv.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win7-x64\native\libuv.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win7-x86\native\libuv.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Site.Views.dll
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Site.Views.pdb
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorAssemblyInfo.cache
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorAssemblyInfo.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Core.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.DataAccessLayer.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.Core.pdb
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\bin\Debug\net5.0\Snapp.DataAccessLayer.pdb
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.TagHelpers.input.cache
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.TagHelpers.output.cache
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorCoreGenerate.cache
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorTargetAssemblyInfo.cs
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.Views.pdb
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\_accountLayout.cshtml.g.cs
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Account\Active.cshtml.g.cs
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Account\Driver.cshtml.g.cs
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\_dashboardLayout.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\AboutSetting.cshtml.g.cs
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Car\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\MonthlyFactor.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\MonthlyRegister.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\PriceSetting.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\SiteSetting.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\TermsSetting.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\WeeklyFactor.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\WeeklyRegister.cshtml.g.cs
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Car\Create.cshtml.g.cs
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Car\Edit.cshtml.g.cs
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.csproj.AssemblyReference.cache
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Car\ImportFile.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Car\Index.cshtml.g.cs
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Color\Create.cshtml.g.cs
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Color\Edit.cshtml.g.cs
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Color\Index.cshtml.g.cs
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\RateType\Create.cshtml.g.cs
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\RateType\Index.cshtml.g.cs
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\RateType\Edit.cshtml.g.cs
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\SiteSetting.cshtml.g.cs
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\PriceSetting.cshtml.g.cs
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\AboutSetting.cshtml.g.cs
-C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Admin\TermsSetting.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Discount\Create.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Discount\Edit.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Discount\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\DriverPanel\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Home\Demo.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Humidity\Create.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Humidity\Edit.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Humidity\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\MonthType\Create.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\MonthType\Edit.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\MonthType\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Panel\Chat.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Panel\ConfirmRequest.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Panel\Dashboard.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Panel\Payment.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Panel\ResultPayment.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Panel\UserProfile.cshtml.g.cs
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\PriceType\Create.cshtml.g.cs
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\PriceType\Edit.cshtml.g.cs
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\PriceType\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\RateType\Create.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\RateType\Edit.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\RateType\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Role\Edit.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\Components\CancelTransactComponent\ViewCancelTransact.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\Components\LastTransactComponent\ViewLastTransact.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\Components\TransactInProcessComponent\TView.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\Components\WeeklyTransactComponent\ViewWeeklyTransact.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\_accountLayout.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\_dashboardLayout.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\_Site.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Temperature\Create.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Temperature\Edit.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Temperature\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\Transacts\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\Create.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\DriverCar.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\DriverCertificate.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\DriverProp.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\User\ShowPrint.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorTargetAssemblyInfo.cache
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.RazorTargetAssemblyInfo.cs
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.Views.pdb
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.csproj.CopyComplete
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\ref\Snapp.Site.dll
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.pdb
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.Site\obj\Debug\net5.0\Snapp.Site.genruntimeconfig.cache

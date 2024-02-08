@@ -8,6 +8,7 @@ using Snapp.Core.Generators;
 //using Snapp.Core.Services;
 
 using Snapp.DataAccessLayer.Entites;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Snapp.Site.Controllers
 {
@@ -18,5 +19,9 @@ namespace Snapp.Site.Controllers
         {
         }
 
+        public IActionResult Demo()
+        {
+            return View();
+        }
     }
 }

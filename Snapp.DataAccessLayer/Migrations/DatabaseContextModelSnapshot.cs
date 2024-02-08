@@ -53,6 +53,43 @@ namespace Snapp.DataAccessLayer.Migrations
                     b.ToTable("Colors");
                 });
 
+            modelBuilder.Entity("Snapp.DataAccessLayer.Entites.Discount", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Code")
+                        .IsRequired()
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)");
+
+                    b.Property<string>("Desc")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Expire")
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<int>("Percent")
+                        .HasColumnType("int");
+
+                    b.Property<long>("Price")
+                        .HasColumnType("bigint");
+
+                    b.Property<string>("Start")
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Discounts");
+                });
+
             modelBuilder.Entity("Snapp.DataAccessLayer.Entites.Driver", b =>
                 {
                     b.Property<Guid>("UserId")
@@ -95,6 +132,73 @@ namespace Snapp.DataAccessLayer.Migrations
                     b.HasIndex("ColorId");
 
                     b.ToTable("Drivers");
+                });
+
+            modelBuilder.Entity("Snapp.DataAccessLayer.Entites.Factor", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("BankName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Date")
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)");
+
+                    b.Property<string>("Desc")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("OrderNumber")
+                        .HasMaxLength(8)
+                        .HasColumnType("nvarchar(8)");
+
+                    b.Property<int>("Price")
+                        .HasColumnType("int");
+
+                    b.Property<string>("RefNumber")
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<string>("Time")
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)");
+
+                    b.Property<string>("TraceNumber")
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<Guid>("UserId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Factors");
+                });
+
+            modelBuilder.Entity("Snapp.DataAccessLayer.Entites.Humidity", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<int>("End")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Name")
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<float>("Precent")
+                        .HasColumnType("real");
+
+                    b.Property<int>("Start")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Humidities");
                 });
 
             modelBuilder.Entity("Snapp.DataAccessLayer.Entites.MonthType", b =>
@@ -220,6 +324,122 @@ namespace Snapp.DataAccessLayer.Migrations
                     b.ToTable("Settings");
                 });
 
+            modelBuilder.Entity("Snapp.DataAccessLayer.Entites.Temperature", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<int>("End")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Name")
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<float>("Precent")
+                        .HasColumnType("real");
+
+                    b.Property<int>("Start")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("temperatures");
+                });
+
+            modelBuilder.Entity("Snapp.DataAccessLayer.Entites.Transact", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Date")
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)");
+
+                    b.Property<long>("Discount")
+                        .HasColumnType("bigint");
+
+                    b.Property<Guid?>("DriverId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<bool>("DriverRate")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("EndAddress")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("EndLat")
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
+
+                    b.Property<string>("EndLng")
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
+
+                    b.Property<string>("EndTime")
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)");
+
+                    b.Property<long>("Fee")
+                        .HasColumnType("bigint");
+
+                    b.Property<bool>("IsCash")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("Rate")
+                        .HasColumnType("int");
+
+                    b.Property<string>("StartAddress")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("StartLat")
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
+
+                    b.Property<string>("StartLng")
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
+
+                    b.Property<string>("StartTime")
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)");
+
+                    b.Property<int>("Status")
+                        .HasColumnType("int");
+
+                    b.Property<long>("Total")
+                        .HasColumnType("bigint");
+
+                    b.Property<Guid>("UserId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Transacts");
+                });
+
+            modelBuilder.Entity("Snapp.DataAccessLayer.Entites.TransactRate", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("RateTypeId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("TransactId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("RateTypeId");
+
+                    b.HasIndex("TransactId");
+
+                    b.ToTable("TransactRates");
+                });
+
             modelBuilder.Entity("Snapp.DataAccessLayer.Entites.User", b =>
                 {
                     b.Property<Guid>("Id")
@@ -251,6 +471,40 @@ namespace Snapp.DataAccessLayer.Migrations
                     b.HasIndex("RoleId");
 
                     b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("Snapp.DataAccessLayer.Entites.UserAddresse", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Desc")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Lat")
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
+
+                    b.Property<string>("Lng")
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasMaxLength(40)
+                        .HasColumnType("nvarchar(40)");
+
+                    b.Property<Guid>("UserId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("UserAddresses");
                 });
 
             modelBuilder.Entity("Snapp.DataAccessLayer.Entites.UserDetail", b =>
@@ -302,6 +556,47 @@ namespace Snapp.DataAccessLayer.Migrations
                     b.Navigation("User");
                 });
 
+            modelBuilder.Entity("Snapp.DataAccessLayer.Entites.Factor", b =>
+                {
+                    b.HasOne("Snapp.DataAccessLayer.Entites.User", "User")
+                        .WithMany("Factors")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("Snapp.DataAccessLayer.Entites.Transact", b =>
+                {
+                    b.HasOne("Snapp.DataAccessLayer.Entites.User", "User")
+                        .WithMany("Transacts")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("Snapp.DataAccessLayer.Entites.TransactRate", b =>
+                {
+                    b.HasOne("Snapp.DataAccessLayer.Entites.RateType", "RateType")
+                        .WithMany()
+                        .HasForeignKey("RateTypeId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Snapp.DataAccessLayer.Entites.Transact", "Transact")
+                        .WithMany("TransactRates")
+                        .HasForeignKey("TransactId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("RateType");
+
+                    b.Navigation("Transact");
+                });
+
             modelBuilder.Entity("Snapp.DataAccessLayer.Entites.User", b =>
                 {
                     b.HasOne("Snapp.DataAccessLayer.Entites.Role", "Role")
@@ -311,6 +606,17 @@ namespace Snapp.DataAccessLayer.Migrations
                         .IsRequired();
 
                     b.Navigation("Role");
+                });
+
+            modelBuilder.Entity("Snapp.DataAccessLayer.Entites.UserAddresse", b =>
+                {
+                    b.HasOne("Snapp.DataAccessLayer.Entites.User", "User")
+                        .WithMany("UserAddresses")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("Snapp.DataAccessLayer.Entites.UserDetail", b =>
@@ -339,9 +645,20 @@ namespace Snapp.DataAccessLayer.Migrations
                     b.Navigation("Users");
                 });
 
+            modelBuilder.Entity("Snapp.DataAccessLayer.Entites.Transact", b =>
+                {
+                    b.Navigation("TransactRates");
+                });
+
             modelBuilder.Entity("Snapp.DataAccessLayer.Entites.User", b =>
                 {
                     b.Navigation("Driver");
+
+                    b.Navigation("Factors");
+
+                    b.Navigation("Transacts");
+
+                    b.Navigation("UserAddresses");
 
                     b.Navigation("UserDetail");
                 });

@@ -10,6 +10,9 @@ using Snapp.DataAccessLayer.Entites;
 using Snapp.Core.Interfaces;
 using Snapp.Core.Services;
 using Snapp.Core.ViewModels;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using System.Security.Claims;
+using Microsoft.AspNetCore.Authentication;
 
 namespace Snapp.Site.Controllers
 {
@@ -92,6 +95,27 @@ namespace Snapp.Site.Controllers
                     ViewBag.IsError = false;
 
                     // احراز هویت و ورود به داشبورد
+
+
+                    var claims = new List<Claim>()
+                    {
+                        new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
+                        new Claim(ClaimTypes.Name, user.Username)
+                    };
+
+                    var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+                    var principal = new ClaimsPrincipal(identity);
+
+                    var properties = new AuthenticationProperties()
+                    {
+                        IsPersistent = true
+                    };
+
+                    await HttpContext.SignInAsync(principal, properties);
+
+                    //return RedirectToAction("Dashboard", "Panel");
+                    //شناسایی نقش کاربروراهنمایی به پنل
+                    return RedirectToAction("Index","DriverPanel");
                 }
             }
 

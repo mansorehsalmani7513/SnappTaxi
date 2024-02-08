@@ -12,3 +12,4 @@ C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\obj\Debug\net5.0\Sn
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\obj\Debug\net5.0\ref\Snapp.DataAccessLayer.dll
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\obj\Debug\net5.0\Snapp.DataAccessLayer.pdb
 C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\obj\Debug\net5.0\Snapp.DataAccessLayer.genruntimeconfig.cache
+C:\Drive\Projects\OnlineTour\SnappTaxi\Snapp.DataAccessLayer\obj\Debug\net5.0\Snapp.DataAccessLayer.csproj.AssemblyReference.cache

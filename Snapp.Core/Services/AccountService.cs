@@ -29,7 +29,8 @@ namespace Snapp.Core.Services
 
         public async Task<User> ActiveUser(ActiveViewModel viewModel)
         {
-            string password = HashEncode.GetHashCode(HashEncode.GetHashCode(viewModel.Code));
+            //string password = HashEncode.GetHashCode(HashEncode.GetHashCode(viewModel.Code));
+            string password = viewModel.Code;
 
             User user = _context.Users.SingleOrDefault(u => u.Password == password);
 
@@ -47,6 +48,13 @@ namespace Snapp.Core.Services
         public bool CheckMobileNumber(string username)
         {
             return _context.Users.Any(u => u.Username == username);
+        }
+
+        public bool CheckUserRole(string role, string username)
+        {
+            Role myRole = _context.Roles.SingleOrDefault(r => r.Name == role);
+
+            return _context.Users.Any(u => u.Username == username && u.RoleId == myRole.Id);
         }
 
         public void Dispose()
@@ -77,7 +85,8 @@ namespace Snapp.Core.Services
                 {
                     IsActive = false,
                     Id = CodeGenerators.GetId(),
-                    Password = HashEncode.GetHashCode(HashEncode.GetHashCode(code)),
+                    //Password = HashEncode.GetHashCode(HashEncode.GetHashCode(code)),
+                    Password = code,
                     RoleId = GetRoleByName("driver"),
                     Token = null,
                     Username = viewModel.Username
@@ -130,7 +139,8 @@ namespace Snapp.Core.Services
 
                 string code = CodeGenerators.GetActiveCode();
 
-                UpdateUserPassword(user.Id, HashEncode.GetHashCode(HashEncode.GetHashCode(code)));
+                //UpdateUserPassword(user.Id, HashEncode.GetHashCode(HashEncode.GetHashCode(code)));
+                UpdateUserPassword(user.Id, code);
 
                 try
                 {
@@ -154,7 +164,8 @@ namespace Snapp.Core.Services
                 {
                     IsActive = false,
                     Id = CodeGenerators.GetId(),
-                    Password = HashEncode.GetHashCode(HashEncode.GetHashCode(code)),
+                    //Password = HashEncode.GetHashCode(HashEncode.GetHashCode(code)),
+                    Password = code,
                     RoleId = GetRoleByName("user"),
                     Token = null,
                     Username = viewModel.Username
@@ -190,7 +201,8 @@ namespace Snapp.Core.Services
 
                 string code = CodeGenerators.GetActiveCode();
 
-                UpdateUserPassword(user.Id, HashEncode.GetHashCode(HashEncode.GetHashCode(code)));
+                //UpdateUserPassword(user.Id, HashEncode.GetHashCode(HashEncode.GetHashCode(code)));
+                UpdateUserPassword(user.Id, code);
 
                 try
                 {
@@ -204,11 +216,22 @@ namespace Snapp.Core.Services
             }
         }
 
+        public void UpdateToken(Guid id, string token)
+        {
+            User user = _context.Users.Find(id);
+
+            user.Password = null;
+            user.Token = token;
+
+            _context.SaveChanges();
+        }
+
         public void UpdateUserPassword(Guid Id, string code)
         {
             User user = _context.Users.Find(Id);
 
-            user.Password = HashEncode.GetHashCode(HashEncode.GetHashCode(code));
+            //user.Password = HashEncode.GetHashCode(HashEncode.GetHashCode(code));
+            user.Password = code;
 
             _context.SaveChanges();
         }
